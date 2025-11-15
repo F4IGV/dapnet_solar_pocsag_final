@@ -1,5 +1,5 @@
 # dapnet_solar_pocsag_final
-Version XML stable — HamQSL vers DAPNET
+Version python stable — HamQSL vers DAPNET
 Récupère les données solaires depuis le flux XML HamQSL
 et les envoie sur DAPNET vers plusieurs callsigns.
 
