@@ -20,6 +20,10 @@ Vous pouvez créer une tache recurente avec le planificateur de tache sous windo
 
 je n'assure pas le SAV ;)
 
+Documentation pour le dapnet: https://hampager.de/dokuwiki/doku.php
+
+Vous souhaitez vous équiper d'un Pager? voici la meilleur adresse: https://www.bi7jta.org/
+
 Version finale et stable du script by F4IGV 11/2025
 
 
