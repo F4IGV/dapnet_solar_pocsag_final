@@ -26,4 +26,9 @@ Vous souhaitez vous équiper d'un Pager? voici la meilleur adresse: https://www.
 
 Version finale et stable du script by F4IGV 11/2025
 
+exemple de log généré:
+
+<img width="1184" height="615" alt="screen_log_solar_weather" src="https://github.com/user-attachments/assets/9ca31f12-75ca-41ed-add1-9269ab00a807" />
+
+
 
