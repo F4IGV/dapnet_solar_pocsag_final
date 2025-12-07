@@ -5,6 +5,9 @@ ASCII only - POCSAG compatible
 This Python script retrieves real-time solar and propagation data from the HamQSL XML feed (hamqsl.com) and sends a compact ASCII report to multiple DAPNET callsigns.  
 It is designed for amateur radio operators who want fast solar updates directly on their POCSAG pagers.
 
+This script can be automated on Windows using Task Scheduler together with the `.bat` file included in this repository.  
+The user must edit the `.bat` file and specify the full path to the `.py` script so automation works correctly.
+
 ---
 
 ## Features
